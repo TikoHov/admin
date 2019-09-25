@@ -1,0 +1,495 @@
+.profile-page .profile-sub-header .box-list ul li a:hover,
+.menu>ul>li>ul.normal-sub>li a:hover,
+ .menu>ul>li>ul>li>ul>li a:hover {
+	background-color: #9c27b0
+}
+
+ .navbar-brand {
+	color: #9c27b0 !important
+}
+
+ .navbar-brand:hover,
+ .navbar-brand:active,
+.navbar-brand:focus {
+	color: #9c27b0
+}
+
+.navbar {
+	background: linear-gradient(45deg, #edbae7, #a890d3)
+}
+
+ .nav>li>a {
+	color: #fff
+}
+
+ .nav>li>a:hover,
+.nav>li>a:focus {
+	background-color: transparent
+}
+
+.nav .open>a {
+	background-color: transparent
+}
+
+.nav .open>a:hover,
+.nav .open>a:focus {
+	background-color: transparent
+}
+
+.bars {
+	color: #fff
+}
+
+ .sidebar .menu .list li.active {
+	background-color: transparent
+}
+
+.sidebar .menu .list li.active>:first-child i,
+.sidebar .menu .list li.active>:first-child span {
+	color: #9c27b0
+}
+
+.sidebar .menu .list a:hover {
+	color: #9c27b0
+}
+
+.checkbox input[type="checkbox"]:checked+label::after {
+	border: 1px solid #9c27b0
+}
+
+.inbox-widget .inbox-inner:hover .inbox-img img {
+	border: 2px solid #9c27b0;
+	transition: all 150ms linear
+}
+
+.nav-tabs .nav-link.active {
+	border: 1px solid #9c27b0 !important
+}
+
+.card .header h2:before {
+	background: #8e24aa
+}
+
+.card .header h2 strong {
+	color: #8e24aa
+}
+
+ .blog-page .single-blog-post .img-holder .date-box {
+	background-color: #9c27b0
+}
+ .profile-page .profile-sub-header .box-list ul li a:hover,
+.menu>ul>li>ul.normal-sub>li a:hover,
+ .menu>ul>li>ul>li>ul>li a:hover {
+	background-color: #2196f3
+}
+
+ .navbar-brand {
+	color: #2196f3 !important
+}
+
+.navbar-brand:hover,
+ .navbar-brand:active,
+ .navbar-brand:focus {
+	color: #2196f3
+}
+
+.navbar {
+	background: linear-gradient(45deg, #64b5f6, #42a5f5)
+}
+
+.theme-blue .nav>li>a {
+	color: #fff
+}
+
+.nav>li>a:hover,
+.nav>li>a:focus {
+	background-color: transparent
+}
+
+ .nav .open>a {
+	background-color: transparent
+}
+
+ .nav .open>a:hover,
+ .nav .open>a:focus {
+	background-color: transparent
+}
+
+ .bars {
+	color: #fff
+}
+
+ .sidebar .menu .list li.active {
+	background-color: transparent
+}
+
+ .sidebar .menu .list li.active>:first-child i,
+.sidebar .menu .list li.active>:first-child span {
+	color: #2196f3
+}
+
+.sidebar .menu .list a:hover {
+	color: #2196f3
+}
+
+.checkbox input[type="checkbox"]:checked+label::after {
+	border: 1px solid #2196f3
+}
+
+.inbox-widget .inbox-inner:hover .inbox-img img {
+	border: 2px solid #2196f3;
+	transition: all 150ms linear
+}
+
+ .nav-tabs .nav-link.active {
+	border: 1px solid #2196f3 !important
+}
+
+.card .header h2:before {
+	background: #1e88e5
+}
+
+.card .header h2 strong {
+	color: #1e88e5
+}
+
+ .blog-page .single-blog-post .img-holder .date-box {
+	background-color: #2196f3
+}
+
+ .profile-page .profile-sub-header .box-list ul li a:hover,
+ .menu>ul>li>ul.normal-sub>li a:hover,
+.menu>ul>li>ul>li>ul>li a:hover {
+	background-color: #00bcd4
+}
+
+.navbar-brand {
+	color: #00bcd4 !important
+}
+
+.navbar-brand:hover,
+ .navbar-brand:active,
+ .navbar-brand:focus {
+	color: #00bcd4
+}
+
+.navbar {
+	background: linear-gradient(45deg, #49cdd0, #00bcd4)
+}
+
+ .nav>li>a {
+	color: #fff
+}
+
+ .nav>li>a:hover,
+ .nav>li>a:focus {
+	background-color: transparent
+}
+
+.nav .open>a {
+	background-color: transparent
+}
+
+ .nav .open>a:hover,
+.nav .open>a:focus {
+	background-color: transparent
+}
+
+.bars {
+	color: #fff
+}
+
+ .sidebar .menu .list li.active {
+	background-color: transparent
+}
+
+.sidebar .menu .list li.active>:first-child i,
+.sidebar .menu .list li.active>:first-child span {
+	color: #00bcd4
+}
+
+ .sidebar .menu .list a:hover {
+	color: #00bcd4
+}
+
+.checkbox input[type="checkbox"]:checked+label::after {
+	border: 1px solid #00bcd4
+}
+
+.inbox-widget .inbox-inner:hover .inbox-img img {
+	border: 2px solid #00bcd4;
+	transition: all 150ms linear
+}
+
+ .nav-tabs .nav-link.active {
+	border: 1px solid #00bcd4 !important
+}
+
+ .card .header h2:before {
+	background: #00acc1
+}
+
+.card .header h2 strong {
+	color: #00acc1
+}
+
+ .blog-page .single-blog-post .img-holder .date-box {
+	background-color: #00bcd4
+}
+
+ .profile-page .profile-sub-header .box-list ul li a:hover,
+.menu>ul>li>ul.normal-sub>li a:hover,
+.menu>ul>li>ul>li>ul>li a:hover {
+	background-color: #4CAF50
+}
+
+.navbar-brand {
+	color: #4CAF50 !important
+}
+
+.navbar-brand:hover,
+ .navbar-brand:active,
+.navbar-brand:focus {
+	color: #4CAF50
+}
+
+.navbar {
+	background: linear-gradient(45deg, #66bb6a, #4CAF50)
+}
+
+.nav>li>a {
+	color: #fff
+}
+
+.nav>li>a:hover,
+.nav>li>a:focus {
+	background-color: transparent
+}
+.nav .open>a {
+	background-color: transparent
+}
+
+.nav .open>a:hover,
+ .nav .open>a:focus {
+	background-color: transparent
+}
+
+ .bars {
+	color: #fff
+}
+
+ .sidebar .menu .list li.active {
+	background-color: transparent
+}
+
+.sidebar .menu .list li.active>:first-child i,
+.sidebar .menu .list li.active>:first-child span {
+	color: #4CAF50
+}
+ .sidebar .menu .list a:hover {
+	color: #4CAF50
+}
+
+.checkbox input[type="checkbox"]:checked+label::after {
+	border: 1px solid #4CAF50
+}
+
+.inbox-widget .inbox-inner:hover .inbox-img img {
+	border: 2px solid #4CAF50;
+	transition: all 150ms linear
+}
+ .nav-tabs .nav-link.active {
+	border: 1px solid #4CAF50 !important
+}
+
+.card .header h2:before {
+	background: #43a047
+}
+
+.card .header h2 strong {
+	color: #43a047
+}
+
+ .blog-page .single-blog-post .img-holder .date-box {
+	background-color: #4CAF50
+}
+
+ .profile-sub-header .box-list ul li a:hover,
+ .menu>ul>li>ul.normal-sub>li a:hover,
+.menu>ul>li>ul>li>ul>li a:hover {
+	background-color: #ff9800
+}
+
+.navbar-brand {
+	color: #ff9800 !important
+}
+
+.navbar-brand:hover,
+.navbar-brand:active,
+.navbar-brand:focus {
+	color: #ff9800
+}
+
+.navbar {
+	background: linear-gradient(45deg, #ffb74d, #ffa726)!important
+}
+
+.nav>li>a {
+	color: #fff
+}
+
+.nav>li>a:hover,
+.nav>li>a:focus {
+	background-color: transparent
+}
+
+ .nav .open>a {
+	background-color: transparent
+}
+
+.nav .open>a:hover,
+.nav .open>a:focus {
+	background-color: transparent
+}
+
+.bars {
+	color: #fff
+}
+
+ .sidebar .menu .list li.active {
+	background-color: transparent
+}
+
+.sidebar .menu .list li.active>:first-child i,
+.sidebar .menu .list li.active>:first-child span {
+	color: #ff9800
+}
+
+.sidebar .menu .list a:hover {
+	color: #ff9800
+}
+
+.checkbox input[type="checkbox"]:checked+label::after {
+	border: 1px solid #ff9800
+}
+
+.inbox-widget .inbox-inner:hover .inbox-img img {
+	border: 2px solid #ff9800;
+	transition: all 150ms linear
+}
+
+ .nav-tabs .nav-link.active {
+	border: 1px solid #ff9800
+}
+
+ .card .header h2:before {
+	background: #ff9800
+}
+ .card .header h2 strong {
+	color: #455a64
+}
+
+ .blog-page .single-blog-post .img-holder .date-box {
+	background-color: #ff9800
+}
+
+.profile-page .profile-sub-header .box-list ul li a:hover,
+ .menu>ul>li>ul.normal-sub>li a:hover,
+.menu>ul>li>ul>li>ul>li a:hover {
+	background-color: #ffafbd
+}
+
+.navbar-brand {
+	color: #ff6681 !important
+}
+
+.navbar-brand:hover,
+.navbar-brand:active,
+ .navbar-brand:focus {
+	color: #ffafbd
+}
+
+.navbar {
+	background: linear-gradient(45deg, #ffafbd, #ffc2a0)
+}
+
+ .nav>li>a {
+	color: #fff
+}
+
+ .nav>li>a:hover,
+.nav>li>a:focus {
+	background-color: transparent
+}
+
+.nav .open>a {
+	background-color: transparent
+}
+ .nav .open>a:hover,
+.nav .open>a:focus {
+	background-color: transparent
+}
+
+ .bars {
+	color: #fff
+}
+
+ .sidebar .menu .list li.active {
+	background-color: transparent
+}
+
+.sidebar .menu .list li.active>:first-child i,
+.sidebar .menu .list li.active>:first-child span {
+	color: #ff6681
+}
+
+.sidebar .menu .list a:hover {
+	color: #ff6681
+}
+
+ .checkbox input[type="checkbox"]:checked+label::after {
+	border: 1px solid #ffafbd
+}
+
+ .inbox-widget .inbox-inner:hover .inbox-img img {
+	border: 2px solid #ffafbd;
+	transition: all 150ms linear
+}
+
+ .nav-tabs .nav-link.active {
+	border: 1px solid #ff6681 !important
+}
+
+.card .header h2:before {
+	background: #ff6681
+}
+
+ .card .header h2 strong {
+	color: #ff6681
+}
+
+ .blog-page .single-blog-post .img-holder .date-box {
+	background-color: #ff6681
+}
+.form-group .form-control+.input-group-addon, .input-group .form-control+.input-group-addon {
+    padding: 0px 18px 10px 0;
+}
+.navbar-nav.navbar-left .input-group .form-control:focus{
+	border:none;
+	box-shadow: none;
+}
+.fa-search{
+	padding: 3px 8px;
+}
+.fa, .fa-power-off{
+	font-size: 20px;
+	
+}
+
+.products-navbar{
+	position: fixed!important;
+}
+.product-menu{
+	overflow: scroll;
+    height: 800px;
+}
